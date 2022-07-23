@@ -1,4 +1,4 @@
-# Webflow Flower
+# Webflow CMS Content Filter
 This Webflow filter allows you to filter CMS items in Webflow using an embedded field.
 
 ## Installation
